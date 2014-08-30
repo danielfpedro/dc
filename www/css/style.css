@@ -1,0 +1,14 @@
+/* Empty. Add your own CSS if you like */
+
+.ballon-message{
+	background-color: #3498db;
+	color: #FFF;
+	padding: 10px 15px;
+	border-radius: 4px;
+	width: auto!important;
+}
+.ballon-message.receiver{
+	text-align: right;
+	background-color: #ecf0f1;
+	color: #000;
+}
